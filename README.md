@@ -66,12 +66,14 @@
 ```
 ---
 ## Usage
-![image](https://github.com/user-attachments/assets/f69f96be-5e7c-4021-abf5-66fd81ed0f4c)
+![image](https://github.com/user-attachments/assets/93ef8839-7d9c-4ebc-ab8a-20db2d094bf7)
+
 1. EZ Tools directory – browse to the ```net``` sub-folder containing the command-line EXEs.
-![image](https://github.com/user-attachments/assets/8b82cc0d-fbb3-4072-96e4-54a28107a8a6)
+![image](https://github.com/user-attachments/assets/1796a2b5-3d7d-4aef-b041-401ee632c97f)
 
 2. Triage directory – select the root of the collection (e.g. the drive-letter folder).
-![image](https://github.com/user-attachments/assets/271e8bda-0e07-4e5b-aba7-24ff08acfee5)
+![image](https://github.com/user-attachments/assets/317426a6-86fa-45ad-999e-2b4c5a9b875a)
+
 
 > [!IMPORTANT]
 > Selecting the triage directory enables the Run Selected Tools button.
